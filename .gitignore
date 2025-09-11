@@ -1,0 +1,45 @@
+# MacOS system files
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+*.la
+
+# Executable files
+*.exe
+*.out
+*.app
+a.out
+
+# Debug / Intermediate files
+*.dSYM/
+*.stackdump
+*.map
+*.pch
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Backup / Temp files
+*~
+*.tmp
+*.bak
+*.swp
